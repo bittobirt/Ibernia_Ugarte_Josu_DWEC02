@@ -1,20 +1,22 @@
-[ 
+
+
+[
     {
         "id":1,
-        "nombre": "Josu",
-        "apellido": "Ibernia",
-        "edad": 30
+        "nombre": "Andoni",
+        "apellido": "Larrieta"
+    
     },
     {
         "id":2,
-        "nombre": "Juan",
-        "apellido": "Perez",
-        "edad": 40
+        "nombre": "Jon",
+        "apellido": "Agirre"
+
     },
     {
         "id":3,
-        "nombre": "Pedro",
-        "apellido": "Lui",
-        "edad": 50
+        "nombre": "Iker",
+        "apellido": "Arana"
+
     }
 ]
